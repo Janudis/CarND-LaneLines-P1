@@ -17,13 +17,7 @@ To meet specifications in the project, take a look at the requirements in the [p
 
 Pipeline
 ---
-<img src="test_image_output/solidWhiteRight.jpg" width="480" alt="Combined Image" />
-
----
-
-### Reflection
-
-### 1. Here are the few steps that each image goes through
+### Here are the few steps that each image goes through
 
 My pipeline consists of of 9 steps. Let's see the result of each of them on this image.
 
