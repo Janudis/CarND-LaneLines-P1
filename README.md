@@ -26,7 +26,7 @@ My pipeline consists of of 7 steps.
 3. I detect the edges (strong gradient in the pixel values) using the canny edges algorithm.
 4. I mask the region of the image where I do not expect the lines to be.
 5. I perform a hough transform to detect where the lines are.
-6. I average, extrapolate and filter the lines I obtain before drawing them on the image with a slight transparency.
+6. I draw and update the initial image.
 7. I take the output video.
 
 
