@@ -19,7 +19,7 @@ Pipeline
 ---
 ### Here are the few steps that each image goes through
 
-My pipeline consists of of 9 steps. Let's see the result of each of them on this image.
+My pipeline consists of of 7 steps. Let's see the result of each of them on this image.
 
 1. I extract a grayscale image.
 2. I blur a little bit the image to smooth out the contours to enhance the result of the next step.
